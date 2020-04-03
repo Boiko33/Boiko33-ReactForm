@@ -1,0 +1,23 @@
+.labelBody {
+    margin: 50px;
+          padding: 10px;
+          width: 300px;
+          border: 2px solid rgb(0, 179, 95);
+          background-color: rgb(39, 219, 144);
+          color: white;
+          border-radius: 5px;
+}
+
+.input {
+    background-color: #EFEFFF;
+    margin-left: 10px;
+}
+
+.secondDiv {
+    margin-bottom: 10px;
+}
+
+.errorText {
+    color: red;
+    margin: 5px;
+}
